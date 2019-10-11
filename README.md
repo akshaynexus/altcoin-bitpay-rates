@@ -1,0 +1,1 @@
+altcoin-bitpay-rates
