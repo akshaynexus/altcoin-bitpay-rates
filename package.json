@@ -1,0 +1,26 @@
+{
+  "name": "altcoin-bitpay-rates",
+  "version": "1.0.0",
+  "description": "Altcoin BitPay rates converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaynexus/altcoin-bitpay-rates.git"
+  },
+  "keywords": [
+    "Cryptocurrency"
+  ],
+  "author": "akshaynexus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshaynexus/altcoin-bitpay-rates/issues"
+  },
+  "homepage": "https://github.com/akshaynexus/altcoin-bitpay-rates#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
